@@ -13,8 +13,7 @@ window.onscroll = () =>{
 }
 
 
-var swiper = new Swiper(".home-slider", {
-    spaceBetween: 20,
+var swiper = new Swiper(".home-slider", { 
     effect: "fade",
     grabCursor: true,
     centeredSlides: true,
